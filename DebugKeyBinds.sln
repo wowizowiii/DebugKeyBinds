@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugKeyBinds", "DebugKeyBinds\DebugKeyBinds.csproj", "{7DEE9FAF-E05A-4B06-BB25-F618B2094BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DEE9FAF-E05A-4B06-BB25-F618B2094BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DEE9FAF-E05A-4B06-BB25-F618B2094BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DEE9FAF-E05A-4B06-BB25-F618B2094BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DEE9FAF-E05A-4B06-BB25-F618B2094BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
