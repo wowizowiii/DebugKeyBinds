@@ -9,3 +9,5 @@ DebugKeyBinds is a client-side mod for [Zumbi Blocks 2](https://store.steampower
   - `F3`: (Debug Only) Toggle Game UI
   - `F12`: Weapons Statistics Screen
 - Changes keybind display where applicable
+
+![DebugKeyBinds](https://github.com/user-attachments/assets/95e5fad4-5f83-4e4d-b3b5-0ec410fd91bb)
